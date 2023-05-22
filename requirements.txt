@@ -100,7 +100,7 @@ nltk==3.4.5
 urlextract==0.9
 
 # Needed in chapter 19.
-requests==2.22.0
+requests==2.31.0
 
 # Optional: nice utility to diff Jupyter Notebooks.
 #nbdime==1.0.5
